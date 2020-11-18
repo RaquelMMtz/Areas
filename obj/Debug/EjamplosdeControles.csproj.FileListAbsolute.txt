@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\EjamplosdeControles\bin\Debug\EjamplosdeControles.exe.config
+C:\Users\USER\source\repos\EjamplosdeControles\bin\Debug\EjamplosdeControles.exe
+C:\Users\USER\source\repos\EjamplosdeControles\bin\Debug\EjamplosdeControles.pdb
+C:\Users\USER\source\repos\EjamplosdeControles\obj\Debug\EjamplosdeControles.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\EjamplosdeControles\obj\Debug\EjamplosdeControles.Form1.resources
+C:\Users\USER\source\repos\EjamplosdeControles\obj\Debug\EjamplosdeControles.Properties.Resources.resources
+C:\Users\USER\source\repos\EjamplosdeControles\obj\Debug\EjamplosdeControles.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\EjamplosdeControles\obj\Debug\EjamplosdeControles.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\EjamplosdeControles\obj\Debug\EjamplosdeControles.exe
+C:\Users\USER\source\repos\EjamplosdeControles\obj\Debug\EjamplosdeControles.pdb
